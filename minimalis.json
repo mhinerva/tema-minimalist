@@ -1,12 +1,14 @@
+[
 {
-    "autor" : "bigplays",
-    "nome" : "minimalist",
-    "palavras-chave" : "jogapracrl",
-    "versão" : "1.0.0",
-    "dofusVersion" : "2.64",
-    "descrição" : "Descrição do meu tema",
-    "url" : "https://raw.githubusercontent.com/mhinerva/tema-minimalist/main/Auracle_Minimaliste.rar",
-    "previewUrl" : "",
-    "creationDate" : "17/04/1999",
-    "modificationDate" : "17/04/2022"
-        } 
+"autor" : "bigplays",
+"nome" : "minimalist",
+"palavras-chave" : "jogapracrl",
+"versão" : "1.0.0",
+"dofusVersion" : "2.64",
+"descrição" : "Descrição do meu tema",
+"url" : "https://raw.githubusercontent.com/mhinerva/tema-minimalist/main/Auracle_Minimaliste.rar",
+"previewUrl" : "",
+"creationDate" : "17/04/1999",
+"modificationDate" : "17/04/2022"
+} 
+]
