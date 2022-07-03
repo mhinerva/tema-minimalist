@@ -1,14 +1,14 @@
 [
-  {
-    "autor" : "bigplays",
-    "nome" : "minimalist",
-    "palavras-chave" : "jogapracrl",
-    "versão" : "1.0.0",
-    "dofusVersion" : "2.64",
-    "descrição" : "Descrição do meu tema",
-    "url" : "https://raw.githubusercontent.com/mhinerva/tema-minimalist/main/Auracle_Minimaliste.rar",
-    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG",
-    "creationDate" : "17/04/1999",
-    "modificationDate" : "17/04/2022"
-  } 
+  { 
+    "author" : "Mhinerva", 
+    "name" : "Minimalist v2", 
+    "keyWords" : "blue,bleu", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.37", 
+    "description" : "Minimalist Theme", 
+    "url" : "https://github.com/mhinerva/tema-minimalist/blob/main/Auracle_Minimaliste.rar", 
+    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG", 
+    "creationDate" : "16/09/2016", 
+    "modificationDate" : "16/10/2016"  
+  }
 ]
