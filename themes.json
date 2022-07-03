@@ -1,14 +1,14 @@
 [
   { 
-    "author" : "Mhinerva", 
-    "name" : "Minimalist v2", 
+    "author" : "Auracle", 
+    "name" : "Minimaliste", 
     "keyWords" : "blue,bleu", 
-    "version" : "1.0.0", 
-    "dofusVersion" : "2.37", 
-    "description" : "Minimalist Theme", 
+    "version" : "5.0.0", 
+    "dofusVersion" : "2.58", 
+    "description" : "Meilleur thème", 
     "url" : "https://github.com/mhinerva/tema-minimalist/raw/master/minimalist.rar", 
     "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG", 
-    "creationDate" : "16/09/2016", 
-    "modificationDate" : "16/10/2016"  
+    "creationDate" : "02/01/2020", 
+    "modificationDate" : "05/02/2021"  
   }
 ]
